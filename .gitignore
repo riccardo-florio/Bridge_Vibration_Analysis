@@ -1,0 +1,31 @@
+# File temporanei di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File temporanei di Word
+~$*.docx
+*.tmp
+*.bak
+
+# File temporanei di SketchUp
+*.skb
+*.lock
+
+# File temporanei di Python e IDE
+*.pyc
+__pycache__/
+*.log
+.idea/
+.vscode/
+
+# File generati da SketchUp
+*.log
+*.cache
+*.swp
+
+# Cartelle di sistema o non necessarie
+*.bak
+*.old
+*.orig
+*.save
